@@ -1,0 +1,22 @@
+@media(max-width:1135px){
+    .yazilar{
+      display: flex;
+      gap: 20px;
+    }
+  }
+  @media (max-width:1072px){
+    .yazilar{
+      display: flex;
+      gap: 7px;
+      font-size: 13px;
+      margin-right: 40px;
+    }
+    .yazilar2 span{
+      font-size: 15px;
+    }
+    nav{
+        display: flex;
+        gap: 5px;
+        font-size: 10px;
+    }
+  }
